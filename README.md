@@ -1,6 +1,6 @@
 # OWASP SKF Java labs
 
-This version of the OWASP SKF Labs is adapted for VSCode Dev Containers and can be run only using VSCode.
+This version of the OWASP SKF Labs is adapted for VSCode Dev Containers and can be run using only VSCode.
 
 ## VSCode extensions needed
 
